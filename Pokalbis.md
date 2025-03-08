@@ -55,7 +55,7 @@ VI atsako:
 .
 
 EL klausia:
-- ... ?
+- Kaip sekasi?
 
 .
 
@@ -90,7 +90,7 @@ VI klausia:
 .
 
 EL atsako:
-- ... .
+- Nes lauke šviečia saulė.
 
 .
 
